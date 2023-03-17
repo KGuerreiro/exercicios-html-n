@@ -5,6 +5,14 @@ body{
 }
 
 h1{
+    font-size: 3em;
+    border: 2px solid black;
+    border-radius: 1em;
+    background-color: aquamarine    ;
+}
+
+p{
+    font-size: 2em;
     border: 2px solid black;
     border-radius: 1em;
     background-color: aquamarine    ;
